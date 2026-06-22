@@ -1,6 +1,6 @@
 {
   "name": "@keepass-web/chacha20",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "description": "ChaCha20 and Salsa20 stream cipher implementation for keepass-web.",
   "license": "MIT",
